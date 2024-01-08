@@ -1,0 +1,9 @@
+.donte {
+    text-align: center;
+    border: rgba(0, 0, 0, 0.589) solid 20px;
+    width: 30%;
+    margin: 5%;
+    background-color: rgba(80, 124, 255, 0.58);
+    text-decoration: solid;
+    direction: rtl;
+}

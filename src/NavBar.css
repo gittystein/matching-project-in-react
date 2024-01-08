@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+}
+
+.navBar {
+    margin-top: 2%;
+    background-color: rgb(98, 174, 255);
+    padding-top: 10px;
+    position: fixed;
+    width: 100%;
+    display: flex;
+    height: 50px;
+    padding-left: 22%;
+}
+
+.active,
+.active2 {
+    text-decoration: none;
+    padding: 10px;
+    padding-bottom: 20px;
+    border: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 255, 255);
+    border-radius: 55px;
+    width: 20%;
+    margin-left: 2%;
+    height: 10%;
+}
+
+.active {
+    background-color: rgba(6, 71, 71, 0.525);
+}
+
+.active2 {
+    background-color: rgb(6, 71, 71);
+}

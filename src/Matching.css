@@ -1,0 +1,46 @@
+.container {
+    display: flex;
+    padding-top: 8%;
+    padding-left: 2%;
+    border: 1px, solid, rgb(12, 103, 200);
+}
+
+.matcingImage {
+    width: 40%;
+    margin-left: 1%;
+    border: 1px, solid, rgb(12, 103, 200);
+}
+
+.goal {
+    padding-top: 18%;
+    text-align: center;
+    width: 28%;
+    border: 5px;
+    padding: 15px;
+}
+
+.goal img {
+    margin-top: 25%;
+    padding-bottom: 15%;
+    width: 20%;
+    text-align: center;
+}
+
+h5 {
+    text-align: right;
+    color: rgb(12, 103, 200);
+}
+
+h3 {
+    background-color: rgb(134, 1, 1);
+    color: rgb(12, 103, 200);
+}
+
+h1,
+h4 {
+    color: rgb(12, 103, 200);
+}
+
+body {
+    color: #282c34;
+}

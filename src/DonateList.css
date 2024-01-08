@@ -1,0 +1,18 @@
+.in {
+    width: 15%;
+    font-size: large;
+    padding: 5%;
+    text-align: center;
+    margin-top: -1%;
+    color: #c51515;
+    width: '25ch';
+}
+
+.pin {
+    color: rgb(0, 54, 215);
+    margin-left: 15%;
+}
+
+.custom-textfield .MuiInputLabel-root {
+    color: red;
+}
